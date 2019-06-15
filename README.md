@@ -1,4 +1,4 @@
-This is a Website Blocker which was made in Python.
+This is a Website Blocker which was made in Python
 
 This script modifies the "hosts" file in System32 to block websites.
 
